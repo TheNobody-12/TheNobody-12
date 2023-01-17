@@ -18,6 +18,9 @@ src="https://img.shields.io/github/followers/TheNobody-12?logo=github&style=for-
 ### Hacktoberfest 2022 Rewards
 [![@thenobody12's Holopin board](https://holopin.me/thenobody12)](https://holopin.io/@thenobody12)
 
+## SWOC 2.0 NFT
+<a href="https://quine.sh/profile/TheNobody-12"><img src="https://stats.quine.sh/TheNobody-12/web3" alt="TheNobody-12's Web3 activity" width="380px"></a>
+
 ### Skills
 
 
