@@ -14,7 +14,8 @@ I am a Machine learning Enthusiast. I have been developing codes for the last 3 
 
 <a href="https://www.github.com/TheNobody-12" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TheNobody-12?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
+### Hacktoberfest 2023 Rewards
+[![An image of @thenobody121's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thenobody121)](https://holopin.io/@thenobody121)
 ### Hacktoberfest 2022 Rewards
 [![@thenobody12's Holopin board](https://holopin.me/thenobody12)](https://holopin.io/@thenobody12)
     
